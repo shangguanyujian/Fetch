@@ -1,0 +1,1 @@
+Select * from edhp.edh.fact_account_transactions;
